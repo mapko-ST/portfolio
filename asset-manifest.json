@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.36afe06a.css",
-    "main.js": "/portfolio/static/js/main.2414e32b.js",
+    "main.js": "/portfolio/static/js/main.b80492b9.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/dali2.png": "/portfolio/static/media/dali2.5be5c3086a503bb03e2d.png",
@@ -13,9 +13,9 @@
     "static/media/compositionPs5.png": "/portfolio/static/media/compositionPs5.47d1a57e7f396d508f4e.png",
     "static/media/about.png": "/portfolio/static/media/about.d020add2668c41ea395c.png",
     "static/media/cardNautilus.png": "/portfolio/static/media/cardNautilus.962627cd2eebae35641e.png",
+    "static/media/cv_Marc_STELIGA.pdf": "/portfolio/static/media/cv_Marc_STELIGA.a1fd68a9f429f1dbed01.pdf",
     "static/media/nautilus.png": "/portfolio/static/media/nautilus.5745018b8cfc994580f6.png",
     "static/media/compositionCv.png": "/portfolio/static/media/compositionCv.f3e605a97d98610d0441.png",
-    "static/media/cv_Marc_STELIGA.pdf": "/portfolio/static/media/cv_Marc_STELIGA.58349ab984e55f8d82b4.pdf",
     "static/media/compositionGuideline2.png": "/portfolio/static/media/compositionGuideline2.ad092d8db08c29f161b4.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.c73fbd5fc882cee6d2509060f42f7a8b.svg",
     "static/media/logo.png": "/portfolio/static/media/logo.7b86b860f8389d060cc3.png",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.408629e830035614addb.svg",
     "index.html": "/portfolio/index.html",
     "main.36afe06a.css.map": "/portfolio/static/css/main.36afe06a.css.map",
-    "main.2414e32b.js.map": "/portfolio/static/js/main.2414e32b.js.map",
+    "main.b80492b9.js.map": "/portfolio/static/js/main.b80492b9.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36afe06a.css",
-    "static/js/main.2414e32b.js"
+    "static/js/main.b80492b9.js"
   ]
 }
