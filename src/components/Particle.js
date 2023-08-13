@@ -16,7 +16,7 @@ function Particle() {
           },
           line_linked: {
             enable: false,
-            opacity: 0.03,
+            opacity: 1,
           },
           move: {
             direction: "right",
