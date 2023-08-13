@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.36afe06a.css",
+    "main.js": "/portfolio/static/js/main.b80492b9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dali2.png": "/portfolio/static/media/dali2.5be5c3086a503bb03e2d.png",
+    "static/media/immersive.png": "/portfolio/static/media/immersive.ec274be1d624bef8a8f4.png",
+    "static/media/fitCo.png": "/portfolio/static/media/fitCo.2ba525b885d29919b55f.png",
+    "static/media/justePrix.png": "/portfolio/static/media/justePrix.ce1ea181eb583c5de973.png",
+    "static/media/biotex.png": "/portfolio/static/media/biotex.758af87ea037f4581a26.png",
+    "static/media/digicom.png": "/portfolio/static/media/digicom.94e434ad5288a07d0f5c.png",
+    "static/media/compositionPs5.png": "/portfolio/static/media/compositionPs5.47d1a57e7f396d508f4e.png",
+    "static/media/about.png": "/portfolio/static/media/about.d020add2668c41ea395c.png",
+    "static/media/cardNautilus.png": "/portfolio/static/media/cardNautilus.962627cd2eebae35641e.png",
+    "static/media/cv_Marc_STELIGA.pdf": "/portfolio/static/media/cv_Marc_STELIGA.a1fd68a9f429f1dbed01.pdf",
+    "static/media/nautilus.png": "/portfolio/static/media/nautilus.5745018b8cfc994580f6.png",
+    "static/media/compositionCv.png": "/portfolio/static/media/compositionCv.f3e605a97d98610d0441.png",
+    "static/media/compositionGuideline2.png": "/portfolio/static/media/compositionGuideline2.ad092d8db08c29f161b4.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.c73fbd5fc882cee6d2509060f42f7a8b.svg",
+    "static/media/logo.png": "/portfolio/static/media/logo.7b86b860f8389d060cc3.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.9051d1c0a9634b0f416fc959973ad7e8.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.408629e830035614addb.svg",
+    "index.html": "/portfolio/index.html",
+    "main.36afe06a.css.map": "/portfolio/static/css/main.36afe06a.css.map",
+    "main.b80492b9.js.map": "/portfolio/static/js/main.b80492b9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36afe06a.css",
+    "static/js/main.b80492b9.js"
+  ]
+}
