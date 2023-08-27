@@ -4,13 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import logo from "../Assets/logo.png";
 import { Link } from "react-router-dom";
-import {
-  AiOutlineHome,
-  AiOutlineUser,
-  AiOutlineMail,
-  AiOutlineProject,
-} from "react-icons/ai";
-import { CgFileDocument } from "react-icons/cg";
+import { AiOutlineHome, AiOutlineUser, AiOutlineProject } from "react-icons/ai";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
