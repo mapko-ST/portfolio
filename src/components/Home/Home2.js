@@ -12,9 +12,9 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              BIENVENUE SUR <span className="purple"> MON </span> SITE
+              BIENVENUE SUR <span className="purple"> MA PAGE </span>WEB
             </h1>
-            <p className="home-about-body">
+            <p className="home-about-body" style={{ textAlign: "start" }}>
               Passionné et curieux, en constante recherche d'amélioration de mon
               métier. Mon objectif est de créer des designs et une{" "}
               <b className="purple">communication unique</b>.
@@ -32,7 +32,7 @@ function Home2() {
               besoins des utilisateurs devient une priorité. <br />
               <br />
               N'hésitez pas à naviguer sur mon site pour{" "}
-              <b className="purple">découvrir </b>. mes divers projets.
+              <b className="purple">découvrir </b> mes divers projets.
             </p>
             <i>
               <p style={{ color: "#676f9d" }}>

@@ -6,18 +6,18 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "start" }}>
             Bonjour, je suis <span className="purple">Marc. </span>
             <br />
             <br />
             Je suis développeur <b className="purple">Front-End</b> de
-            formation. Autodidacte sur divers langages et frameworks, je suis
+            formation. Autodidacte sur divers languages et frameworks, je suis
             passionné des logiciels Adobe et la communication. Je souhaite
             aujourd'hui étendre mes compétences en tant que Concepteur Designer
             UI.
             <br />
             <br />
-            Sensible à l’ergonomie et à la démarche{" "}
+            Sensible à l'ergonomie et à la démarche{" "}
             <b className="purple">centrée utilisateur</b>, je suis à l'affût des
             tendances et des actualités. Je travaille avec la méthode Scrum pour
             une bonne communication et un rendu fonctionnel, appliqué et

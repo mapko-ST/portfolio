@@ -4,12 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import logo from "../Assets/logo.png";
 import { Link } from "react-router-dom";
-import {
-  AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
-} from "react-icons/ai";
-import { CgFileDocument } from "react-icons/cg";
+import { AiOutlineHome, AiOutlineUser, AiOutlineProject } from "react-icons/ai";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -68,21 +63,30 @@ function NavBar() {
                 to="/project"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen
-                  style={{ marginBottom: "2px" }}
-                />{" "}
-                Projets
+                <AiOutlineProject style={{ marginBottom: "2px" }} /> Projets
               </Nav.Link>
             </Nav.Item>
+            {/*
             <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
+                
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Mon CV
               </Nav.Link>
             </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/contact"
+                onClick={() => updateExpanded(false)}
+                className="nav-link"
+              >
+                <AiOutlineMail style={{ marginBottom: "2px" }} /> Contact
+              </Nav.Link>
+            </Nav.Item>*/}
           </Nav>
         </Navbar.Collapse>
       </Container>

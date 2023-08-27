@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.tech-name {
+  font-size: 14px;
+  /* Taille de police personnalisée */
+  font-weight: bold;
+  /* Gras */
+  margin-top: 5px;
+  /* Marge supérieure pour l'espacement */
+  /* Ajoutez d'autres styles personnalisés selon vos préférences */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
